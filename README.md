@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Languages-English,%20Hindi,%20Kannada,%20Konkani,%20Bengali-brightgreen" />
 </p>
 
-I am pursuing a Fullstack Developer at [Wipro Limited](https://www.wipro.com/). Additionally, I am also pursuing my Post Graduation in Fullstack Development.
+I am a Fullstack Developer at [Wipro Limited](https://www.wipro.com/). Additionally, I am also pursuing my Post Graduation in Fullstack Development.
 
 
 <h3 align="center">Languages and Tools: </h3>
