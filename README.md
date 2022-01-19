@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Age-29-blue" />
   <img src="https://img.shields.io/badge/Focus-Front%20End,%20Opensource-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Bangalore-success" />
+  <img src="https://img.shields.io/badge/Lives-United%20Kingdom-success" />
   <img src="https://img.shields.io/badge/Languages-English,%20Hindi,%20Kannada,%20Konkani,%20Bengali-brightgreen" />
 </p>
 
